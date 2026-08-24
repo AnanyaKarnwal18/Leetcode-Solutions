@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1470-shuffle-the-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
