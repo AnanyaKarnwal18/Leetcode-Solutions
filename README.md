@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
