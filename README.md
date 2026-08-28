@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0189-rotate-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Trie
 |  |
 | ------- |
