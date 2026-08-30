@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1903-largest-odd-number-in-string](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
