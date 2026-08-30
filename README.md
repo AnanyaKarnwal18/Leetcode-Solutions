@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -157,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0136-single-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
