@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
@@ -116,10 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
