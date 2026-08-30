@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
