@@ -1,7 +1,12 @@
 class Solution {
 public:
-    int countCommas(int n) {
+    long long countCommas(long long n) {
+        long long ans = 0;
         
-        return max(0, n -999);
+        for (long long p = 1000; p <= n; p *= 1000) {
+            ans += n - p + 1;
+        }
+        
+        return ans;
     }
 };
