@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String Matching
 |  |
@@ -206,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
