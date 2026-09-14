@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0836-rectangle-overlap](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
