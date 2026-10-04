@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
