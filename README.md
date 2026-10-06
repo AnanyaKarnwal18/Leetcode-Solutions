@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
