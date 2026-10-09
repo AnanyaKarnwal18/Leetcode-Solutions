@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0148-sort-list) |
