@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1254-number-of-closed-islands](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Trie
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnanyaKarnwal18/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
